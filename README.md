@@ -2,10 +2,6 @@
 
 A C-based project on Cpu Scheduling Algorithms: Priority - SRTF
 
-## Project Overview
-
-This project implements multiple CPU scheduling algorithms commonly studied in Operating Systems courses. It includes a GUI interface to visualize process scheduling, generate Gantt charts, and calculate key performance metrics.
-
 ## Features
 
 - **Multiple Scheduling Algorithms**
